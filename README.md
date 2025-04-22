@@ -1,4 +1,4 @@
-# AMPLITUDE SHIFT KEYING
+# AMPLITUDE SHIFT KEYING(ASK)
 # AIM:
 To simulate Amplitude Shift Keying (ASK) modulation and demodulation and analyze the transmission of binary data using amplitude variations in a carrier signal.
 # TOOLS REQUIRED:
@@ -55,7 +55,7 @@ plt.show()
 # OUTPUT WAVEFORM:
 ![ASK OUTPUT](https://github.com/user-attachments/assets/a836891a-4535-499e-ac6c-42b84b2838c7)
 # GRAPH :
-![WhatsApp Image 2025-04-15 at 19 29 56_7340b429](https://github.com/user-attachments/assets/b2192ae1-4625-4cca-a537-33e1201dbe86)
+![WhatsApp Image 2025-04-22 at 11 34 34_e56992d2](https://github.com/user-attachments/assets/2fac71cf-08bc-4ab1-b100-de1e957e72ac)
 
 
 # RESULT:
